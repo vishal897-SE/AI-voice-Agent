@@ -10,7 +10,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 
 # --- PREMIUM DASHBOARD CONFIG ---
 st.set_page_config(
-    page_title=" Voice AI Agent",
+    page_title=" AI Voice Meeting Agent",
     page_icon="⚡",
     layout="wide"
 )
@@ -96,7 +96,7 @@ with st.sidebar:
         st.rerun()
 
 # --- MAIN DASHBOARD INTERFACE ---
-st.title("⚡ Voice AI Agent ")
+st.title("⚡ AI Voice Meeting Agent ")
 st.caption("Hybrid Context-Aware Intelligent Assistant")
 
 # --- LIVE METRICS COUNTERS ---
