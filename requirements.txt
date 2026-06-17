@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+google-generativeai
+python-dotenv
+SpeechRecognition
+pyttsx3
+pyaudio
